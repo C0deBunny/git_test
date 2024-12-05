@@ -1,2 +1,2 @@
 # git_test
-I <3 Acacia
+Testing ground for The Odin Project.
